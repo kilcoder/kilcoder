@@ -1,12 +1,12 @@
-name: sync_to_gitee
+name: Sync To Gitee
 
 on: [ push, delete, create ]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - name: sync_to_gitee
+      - name: Sync To Gitee
         uses: wearerequired/git-mirror-action@master
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY_GITHUB_ACTIONS }}
