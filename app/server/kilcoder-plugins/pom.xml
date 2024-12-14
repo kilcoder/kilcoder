@@ -15,8 +15,5 @@
 
     <name>kilcoder-plugins</name>
 
-    <dependencyManagement>
-    </dependencyManagement>
-
 </project>
 

@@ -15,8 +15,5 @@
 
     <name>kilcoder-app</name>
 
-    <dependencyManagement>
-    </dependencyManagement>
-
 </project>
 

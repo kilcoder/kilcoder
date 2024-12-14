@@ -15,8 +15,5 @@
 
     <name>kilcoder-infra</name>
 
-    <dependencyManagement>
-    </dependencyManagement>
-
 </project>
 
