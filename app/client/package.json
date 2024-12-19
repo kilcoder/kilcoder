@@ -1,0 +1,24 @@
+{
+  "name": "kilcoder-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kilcoder/kilcoder.git"
+  },
+  "author": "kilcoder",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kilcoder/kilcoder/issues"
+  },
+  "homepage": "https://github.com/kilcoder/kilcoder#readme"
+}

@@ -1,14 +1,3 @@
-# Project
-build
-dist
-packages/*/lib/
-packages/*/es/
-packages/*/dist/
-packages/*/output/
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-
 # Logs
 logs
 *.log
