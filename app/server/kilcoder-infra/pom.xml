@@ -15,5 +15,12 @@
 
     <name>kilcoder-infra</name>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-mongodb-reactive</artifactId>
+        </dependency>
+    </dependencies>
+
 </project>
 
